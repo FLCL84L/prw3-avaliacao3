@@ -1,7 +1,7 @@
-package br.edu.ifsp.prw3.prw3_api_slides.conserto;
+package br.edu.ifsp.prw3.prw3_avaliacao3.conserto;
 
-import br.edu.ifsp.prw3.prw3_api_slides.mecanico.DadosMecanico;
-import br.edu.ifsp.prw3.prw3_api_slides.veiculo.DadosVeiculo;
+import br.edu.ifsp.prw3.prw3_avaliacao3.mecanico.DadosMecanico;
+import br.edu.ifsp.prw3.prw3_avaliacao3.veiculo.DadosVeiculo;
 import jakarta.validation.Valid;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;

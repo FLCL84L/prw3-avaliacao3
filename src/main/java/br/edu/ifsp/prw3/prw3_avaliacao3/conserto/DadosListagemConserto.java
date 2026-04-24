@@ -1,7 +1,7 @@
-package br.edu.ifsp.prw3.prw3_api_slides.conserto;
+package br.edu.ifsp.prw3.prw3_avaliacao3.conserto;
 
-import br.edu.ifsp.prw3.prw3_api_slides.mecanico.Mecanico;
-import br.edu.ifsp.prw3.prw3_api_slides.veiculo.Veiculo;
+import br.edu.ifsp.prw3.prw3_avaliacao3.mecanico.Mecanico;
+import br.edu.ifsp.prw3.prw3_avaliacao3.veiculo.Veiculo;
 
 public record DadosListagemConserto(Long id, String dataEntrada, String dataSaida, String mecanicoNome, String veiculoMarca, String veiculoModelo) {
     public DadosListagemConserto(Conserto conserto) {

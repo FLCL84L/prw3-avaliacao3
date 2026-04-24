@@ -1,6 +1,7 @@
-package br.edu.ifsp.prw3.prw3_api_slides.controller;
+package br.edu.ifsp.prw3.prw3_avaliacao3.controller;
 
-import br.edu.ifsp.prw3.prw3_api_slides.conserto.*;
+
+import br.edu.ifsp.prw3.prw3_avaliacao3.conserto.*;
 import jakarta.transaction.Transactional;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -1,4 +1,4 @@
-package br.edu.ifsp.prw3.prw3_api_slides.mecanico;
+package br.edu.ifsp.prw3.prw3_avaliacao3.mecanico;
 
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;
